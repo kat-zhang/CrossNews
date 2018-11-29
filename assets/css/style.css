@@ -75,6 +75,11 @@
     font-style: italic;
 }
 
+#across-clues, #down-clues{
+    overflow: auto;
+    max-height: 530px;
+}
+
 .sign-btn {
     width: 150px;
     height: 150px;
@@ -90,7 +95,7 @@
 .modal-trigger:hover {
     color: white;
 }
-.modal-content{
+#modal-horoscope > .modal-content{
     width: 50%;
     height: 100%;
     float: right;
