@@ -19,6 +19,10 @@ Our app allows user to retrieve data from multiple databases for given dates. Im
 - Horoscope Page
 - Articles Page
 
+### [View CrossNews](https://kat-zhang.github.io/CrossNews/ "Link to Application")
+
+
+
 Future Potential Features:
 - The use of GIPHY in correlation with hints for crossword
 - Sudoku
