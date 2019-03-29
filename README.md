@@ -12,17 +12,12 @@ Primarily a crossword app, which can display almost all of the puzzles published
 
 Our app allows user to retrieve data from multiple databases for given dates. Imagine having the crossword, weather, and article headlines from your birthday or any date you can think of within range. The crosword is interactive, and allows users to challenge themselves with a NYT crossword from almost any date ranging back to 1977! The app also allows users to search for articles from any date ranging back to September 18, 1851. Additionally, the user can view horoscopes for each astrological sign for the present day (updated each day). Wonder what the weather was like on 12/25/1995 in Chicago? Wonder no more!
 
-Our App:
-
-CrossNews Homepage
-
-Crossword Page
-
-Weather Page
-
-Horoscope Page
-
-Articles Page
+#### Our App:
+- CrossNews Homepage
+- Crossword Page
+- Weather Page
+- Horoscope Page
+- Articles Page
 
 Future Potential Features:
 - The use of GIPHY in correlation with hints for crossword
